@@ -1,0 +1,12 @@
+# Python 가상환경
+.venv
+env/
+
+# Python 파일
+*.pyc
+__pycache__/
+
+# 기타
+.DS_Store
+.idea/
+.vscode/
