@@ -50,13 +50,13 @@ pip install pyinstaller
 
 ### 2️⃣ Windows에서 실행 파일 (.exe) 생성
 ```bash
-pyinstaller --onedir --windowed --name "Bin2C" main.py
+pyinstaller --onedir --windowed --name "Bin2C-OIS" main.py
 ```
 `dist/Bin2C.exe` 파일이 생성됩니다.
 
 ### 3️⃣ macOS에서 .app 파일 생성
 ```bash
-pyinstaller --onedir --windowed --name "Bin2C" main.py
+pyinstaller --onedir --windowed --icon=icon.icns --name "Bin2C-OIS" main.py
 ```
 dist/Bin2C.app 파일이 생성됩니다.<br>
 실행 오류가 발생하면 다음 명령어 실행:
