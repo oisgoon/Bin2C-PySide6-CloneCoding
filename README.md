@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/b0945086-c5b0-4ea1-938d-244876dda117)
+
 # Bin2C-PySide6
 
 `Bin2C-PySide6`는 `Bin2C` 프로그램을 클론코딩한 것이며, 바이너리 파일을 **C 배열 형식으로 변환**하는 PySide6 기반 GUI 애플리케이션입니다.
